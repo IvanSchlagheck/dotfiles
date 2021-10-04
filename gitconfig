@@ -49,3 +49,6 @@
 
 [pull]
   rebase = false
+[user]
+	email = ivansch05@gmail.com
+	name = ivan schlagheck
